@@ -1,7 +1,7 @@
 <h3 align="left">HI I am Goku</h3> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-![Profile views](https://gpvc.arturio.dev/DragSama)
+![Profile views](https://gpvc.arturio.dev/ImmaGoku)
 
 - 🔭 I’m currently working on [SonGokuRobot](https://t.me/SonGokuRobot), [SPK System](https://github.com/NkSama/SibylSystem) and not gonna tell more otherwise u will identify my main account 😅😅.
 - 🌱 I’m currently learning - Python, Javascript
