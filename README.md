@@ -5,4 +5,4 @@
 
 - 🔭 I’m currently working on [SonGokuRobot](https://t.me/SonGokuRobot), [SPK System](https://github.com/NkSama/SibylSystem) and not gonna tell more otherwise u will identify my main account 😅😅.
 - 🌱 I’m currently learning - Python, Javascript
-- 📫 Reach me on [Telegram](https://t.me/Goku_kun) <img src = https://i.pinimg.com/originals/25/d2/54/25d254df236c61306bceb86df5f671f1.gif width = 80 align = "right">
+- 📫 Reach me on [Telegram](https://telegram.dog/Goku_kun) <img src = https://i.pinimg.com/originals/25/d2/54/25d254df236c61306bceb86df5f671f1.gif width = 80 align = "right">
