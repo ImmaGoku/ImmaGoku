@@ -3,6 +3,5 @@
 
 ![Profile views](https://gpvc.arturio.dev/ImmaGoku)
 
-- 🔭 I’m currently working on [SonGokuRobot](https://t.me/SonGokuRobot), [SPK System](https://github.com/NkSama/SibylSystem) and not gonna tell more otherwise u will identify my main account 😅😅.
-- 🌱 I’m currently learning - Python, Javascript
+- 🔭 I’m currently working on [SonGokuRobot](https://t.me/SonGokuRobot).
 - 📫 Reach me on [Telegram](https://telegram.dog/Goku_kun) <img src = https://i.pinimg.com/originals/25/d2/54/25d254df236c61306bceb86df5f671f1.gif width = 80 align = "right">
